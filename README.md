@@ -1,10 +1,9 @@
 # 🎶 Music Landing Page
 
-A simple and stylish landing page for a music website built with HTML and CSS. This project is designed to showcase music services, latest tracks, or artist profiles.
-
 <div align="center">
   <img src="Media/logo.png" width="100" height="auto">
 </div>
+A simple and stylish landing page for a music website built with HTML and CSS. This project is designed to showcase music services, latest tracks, or artist profiles.
 
 ## 📑 Features
 
