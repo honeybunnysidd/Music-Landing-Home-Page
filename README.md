@@ -25,7 +25,7 @@ Email: siddhartharaghuvanshi01@gmail.com
 
 ## Link :
 
-url : https://github.com/honeybunnysidd/Music-Landing-Home-Page.git
+url : https://honeybunnysidd.github.io/Music-Landing-Home-Page/
 
 ## 🚀 Getting Started
 
