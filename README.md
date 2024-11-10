@@ -2,6 +2,10 @@
 
 A simple and stylish landing page for a music website built with HTML and CSS. This project is designed to showcase music services, latest tracks, or artist profiles.
 
+<div align="center">
+  <img src="Media/logo.png" width="100" height="auto">
+</div>
+
 ## 📑 Features
 
 - **Responsive Design**: Adjusts smoothly across various screen sizes, from mobile to desktop.
@@ -9,19 +13,20 @@ A simple and stylish landing page for a music website built with HTML and CSS. T
 - **Custom Styling**: Uses CSS for a visually appealing interface.
 - **Animations**: Smooth transitions to enhance user engagement.
 
-
-
 ## Technologies used :
-  | HTML  | CSS  |
-|-------|------|
+
+| HTML                                                                                | CSS                                                                               |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65"/> |
 
 ## Author :
-   Siddhartha Raghuvanshi <br>
-   Email: siddhartharaghuvanshi01@gmail.com
+
+Siddhartha Raghuvanshi <br>
+Email: siddhartharaghuvanshi01@gmail.com
 
 ## Link :
-   url : https://github.com/honeybunnysidd/Music-Landing-Home-Page.git
+
+url : https://github.com/honeybunnysidd/Music-Landing-Home-Page.git
 
 ## 🚀 Getting Started
 
@@ -36,3 +41,4 @@ You need a code editor, like VS Code, and a web browser to view the page.
 1. Clone the repository:
    ```bash
    git clone https://github.com/honeybunnysidd/Music-Landing-Home-Page.git
+   ```
